@@ -46,7 +46,7 @@ Daftar Website rute dialihkan ke WARP
 # Link Instalasi
 *Only Ubuntu Min Ver 20.04
 ```
-bash -c "$(wget -qO- s.id/1YIob)"
+bash -c "$(wget -qO- https://raw.githubusercontent.com/luciferworld/autoscript2/refs/heads/main/xray)"
 ```
 # Donasi
 Donasi untuk perpanjang Layanan WARP+ 😊😊
